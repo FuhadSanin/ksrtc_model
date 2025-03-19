@@ -1,0 +1,106 @@
+[
+  {
+    "vehicle_number": "KL06J1010",
+    "stations": [
+      { "station": "Kottayam", "arrivalTime": "02:30 PM", "departureTime": "02:30 PM" },
+      { "station": "Idukki", "arrivalTime": "03:00 PM", "departureTime": "03:00 PM" },
+      { "station": "Cheruthoni", "arrivalTime": "03:30 PM", "departureTime": "03:35 PM" },
+      { "station": "Adimali", "arrivalTime": "04:15 PM", "departureTime": "04:20 PM" },
+      { "station": "Kothamangalam", "arrivalTime": "05:00 PM", "departureTime": "05:05 PM" },
+      { "station": "Perumbavoor", "arrivalTime": "05:45 PM", "departureTime": "05:50 PM" },
+      { "station": "Aluva", "arrivalTime": "06:30 PM", "departureTime": "06:30 PM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL06J2020",
+    "stations": [
+      { "station": "Kottayam", "arrivalTime": "08:00 AM", "departureTime": "08:00 AM" },
+      { "station": "Ettumanoor", "arrivalTime": "08:20 AM", "departureTime": "08:25 AM" },
+      { "station": "Pala", "arrivalTime": "09:00 AM", "departureTime": "09:05 AM" },
+      { "station": "Thodupuzha", "arrivalTime": "09:45 AM", "departureTime": "09:50 AM" },
+      { "station": "Munnar", "arrivalTime": "11:30 AM", "departureTime": "11:30 AM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL06J3030",
+    "stations": [
+      { "station": "Kottayam", "arrivalTime": "10:00 AM", "departureTime": "10:00 AM" },
+      { "station": "Changanassery", "arrivalTime": "10:30 AM", "departureTime": "10:35 AM" },
+      { "station": "Thiruvalla", "arrivalTime": "11:00 AM", "departureTime": "11:05 AM" },
+      { "station": "Haripad", "arrivalTime": "11:45 AM", "departureTime": "11:50 AM" },
+      { "station": "Alappuzha", "arrivalTime": "12:30 PM", "departureTime": "12:30 PM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL06J4040",
+    "stations": [
+      { "station": "Kottayam", "arrivalTime": "07:00 AM", "departureTime": "07:00 AM" },
+      { "station": "Vaikom", "arrivalTime": "07:45 AM", "departureTime": "07:50 AM" },
+      { "station": "Cherthala", "arrivalTime": "08:30 AM", "departureTime": "08:35 AM" },
+      { "station": "Maradu", "arrivalTime": "09:15 AM", "departureTime": "09:20 AM" },
+      { "station": "Ernakulam", "arrivalTime": "10:00 AM", "departureTime": "10:00 AM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL06J5050",
+    "stations": [
+      { "station": "Kottayam", "arrivalTime": "06:00 AM", "departureTime": "06:00 AM" },
+      { "station": "Ettumanoor", "arrivalTime": "06:30 AM", "departureTime": "06:35 AM" },
+      { "station": "Ponkunnam", "arrivalTime": "07:10 AM", "departureTime": "07:15 AM" },
+      { "station": "Ranni", "arrivalTime": "08:00 AM", "departureTime": "08:05 AM" },
+      { "station": "Pathanamthitta", "arrivalTime": "08:45 AM", "departureTime": "08:45 AM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL06J6060",
+    "stations": [
+      { "station": "Kottayam", "arrivalTime": "09:00 AM", "departureTime": "09:00 AM" },
+      { "station": "Ettumanoor", "arrivalTime": "09:30 AM", "departureTime": "09:35 AM" },
+      { "station": "Kaduthuruthy", "arrivalTime": "10:10 AM", "departureTime": "10:15 AM" },
+      { "station": "Vaikom", "arrivalTime": "10:50 AM", "departureTime": "10:55 AM" },
+      { "station": "Ernakulam", "arrivalTime": "11:40 AM", "departureTime": "11:40 AM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL06J7070",
+    "stations": [
+      { "station": "Kottayam", "arrivalTime": "05:30 AM", "departureTime": "05:30 AM" },
+      { "station": "Changanassery", "arrivalTime": "06:00 AM", "departureTime": "06:05 AM" },
+      { "station": "Thiruvalla", "arrivalTime": "06:30 AM", "departureTime": "06:35 AM" },
+      { "station": "Mavelikkara", "arrivalTime": "07:10 AM", "departureTime": "07:15 AM" },
+      { "station": "Kayamkulam", "arrivalTime": "07:45 AM", "departureTime": "07:45 AM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL06J8080",
+    "stations": [
+      { "station": "Kottayam", "arrivalTime": "12:00 PM", "departureTime": "12:00 PM" },
+      { "station": "Pala", "arrivalTime": "12:45 PM", "departureTime": "12:50 PM" },
+      { "station": "Thodupuzha", "arrivalTime": "01:30 PM", "departureTime": "01:35 PM" },
+      { "station": "Muvattupuzha", "arrivalTime": "02:15 PM", "departureTime": "02:20 PM" },
+      { "station": "Ernakulam", "arrivalTime": "03:00 PM", "departureTime": "03:00 PM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL06J9090",
+    "stations": [
+      { "station": "Kottayam", "arrivalTime": "04:30 PM", "departureTime": "04:30 PM" },
+      { "station": "Ettumanoor", "arrivalTime": "05:00 PM", "departureTime": "05:05 PM" },
+      { "station": "Ponkunnam", "arrivalTime": "05:40 PM", "departureTime": "05:45 PM" },
+      { "station": "Ranni", "arrivalTime": "06:30 PM", "departureTime": "06:35 PM" },
+      { "station": "Pathanamthitta", "arrivalTime": "07:10 PM", "departureTime": "07:10 PM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL06J1111",
+    "stations": [
+      { "station": "Kottayam", "arrivalTime": "06:00 AM", "departureTime": "06:00 AM" },
+      { "station": "Changanassery", "arrivalTime": "06:30 AM", "departureTime": "06:35 AM" },
+      { "station": "Thiruvalla", "arrivalTime": "07:00 AM", "departureTime": "07:05 AM" },
+      { "station": "Mavelikkara", "arrivalTime": "07:45 AM", "departureTime": "07:50 AM" },
+      { "station": "Kayamkulam", "arrivalTime": "08:30 AM", "departureTime": "08:30 AM" }
+    ]
+  }
+] 
+  
+

@@ -1,0 +1,522 @@
+[
+  {
+    "vehicle_number": "KL15A-201",
+    "trip": 1,
+    "stations": [
+      {
+        "station": "Kozhikode",
+        "arrivalTime": "06:00 am",
+        "departureTime": "06:00 am"
+      },
+      {
+        "station": "Ferok",
+        "arrivalTime": "06:30 am",
+        "departureTime": "06:30 am"
+      },
+      {
+        "station": "Ramanattukara",
+        "arrivalTime": "08:00 am",
+        "departureTime": "08:00 am"
+      },
+      {
+        "station": "Thrissur",
+        "arrivalTime": "10:00 am",
+        "departureTime": "10:00 am"
+      },
+      {
+        "station": "Ernakulam",
+        "arrivalTime": "12:00 pm",
+        "departureTime": "12:00 pm"
+      },
+      {
+        "station": "Kollam",
+        "arrivalTime": "01:30 pm",
+        "departureTime": "01:30 pm"
+      },
+      {
+        "station": "Thiruvananthapuram",
+        "arrivalTime": "02:00 pm",
+        "departureTime": "02:00 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15B-202",
+    "trip": 2,
+    "stations": [
+      {
+        "station": "Kozhikode",
+        "arrivalTime": "07:30 am",
+        "departureTime": "07:30 am"
+      },
+      {
+        "station": "Vadakara",
+        "arrivalTime": "08:15 am",
+        "departureTime": "08:15 am"
+      },
+      {
+        "station": "Mahe",
+        "arrivalTime": "08:45 am",
+        "departureTime": "08:45 am"
+      },
+      {
+        "station": "Thalassery",
+        "arrivalTime": "09:15 am",
+        "departureTime": "09:15 am"
+      },
+      {
+        "station": "Payyannur",
+        "arrivalTime": "09:45 am",
+        "departureTime": "09:45 am"
+      },
+      {
+        "station": "Kannur",
+        "arrivalTime": "10:30 am",
+        "departureTime": "10:30 am"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15C-203",
+    "trip": 3,
+    "stations": [
+      {
+        "station": "Kozhikode",
+        "arrivalTime": "08:15 am",
+        "departureTime": "08:15 am"
+      },
+      {
+        "station": "Mukkam",
+        "arrivalTime": "08:45 am",
+        "departureTime": "08:45 am"
+      },
+      {
+        "station": "Perambra",
+        "arrivalTime": "09:15 am",
+        "departureTime": "09:15 am"
+      },
+      {
+        "station": "Koduvally",
+        "arrivalTime": "09:45 am",
+        "departureTime": "09:45 am"
+      },
+      {
+        "station": "Kunnamkulam",
+        "arrivalTime": "11:00 am",
+        "departureTime": "11:00 am"
+      },
+      {
+        "station": "Palakkad",
+        "arrivalTime": "01:00 pm",
+        "departureTime": "01:00 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15D-204",
+    "trip": 4,
+    "stations": [
+      {
+        "station": "Kozhikode",
+        "arrivalTime": "09:00 am",
+        "departureTime": "09:00 am"
+      },
+      {
+        "station": "Feroke",
+        "arrivalTime": "09:30 am",
+        "departureTime": "09:30 am"
+      },
+      {
+        "station": "Kadalundi",
+        "arrivalTime": "10:00 am",
+        "departureTime": "10:00 am"
+      },
+      {
+        "station": "Parappanangadi",
+        "arrivalTime": "10:30 am",
+        "departureTime": "10:30 am"
+      },
+      {
+        "station": "Tirur",
+        "arrivalTime": "11:00 am",
+        "departureTime": "11:00 am"
+      },
+      {
+        "station": "Kochi",
+        "arrivalTime": "01:30 pm",
+        "departureTime": "01:30 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15E-205",
+    "trip": 5,
+    "stations": [
+      {
+        "station": "Kozhikode",
+        "arrivalTime": "10:00 am",
+        "departureTime": "10:00 am"
+      },
+      {
+        "station": "Kunnamangalam",
+        "arrivalTime": "10:30 am",
+        "departureTime": "10:30 am"
+      },
+      {
+        "station": "Periya",
+        "arrivalTime": "11:00 am",
+        "departureTime": "11:00 am"
+      },
+      {
+        "station": "Kalpetta",
+        "arrivalTime": "12:30 pm",
+        "departureTime": "12:30 pm"
+      },
+      {
+        "station": "Sultan Bathery",
+        "arrivalTime": "01:15 pm",
+        "departureTime": "01:15 pm"
+      },
+      {
+        "station": "Wayanad",
+        "arrivalTime": "02:00 pm",
+        "departureTime": "02:00 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15F-206",
+    "trip": 6,
+    "stations": [
+      {
+        "station": "Kozhikode",
+        "arrivalTime": "11:30 am",
+        "departureTime": "11:30 am"
+      },
+      {
+        "station": "Ramanattukara",
+        "arrivalTime": "12:00 pm",
+        "departureTime": "12:00 pm"
+      },
+      {
+        "station": "Kottakkal",
+        "arrivalTime": "12:30 pm",
+        "departureTime": "12:30 pm"
+      },
+      {
+        "station": "Tirur",
+        "arrivalTime": "01:00 pm",
+        "departureTime": "01:00 pm"
+      },
+      {
+        "station": "Malappuram",
+        "arrivalTime": "01:30 pm",
+        "departureTime": "01:30 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15G-207",
+    "trip": 7,
+    "stations": [
+      {
+        "station": "Kozhikode",
+        "arrivalTime": "12:00 pm",
+        "departureTime": "12:00 pm"
+      },
+      {
+        "station": "Ramanattukara",
+        "arrivalTime": "12:30 pm",
+        "departureTime": "12:30 pm"
+      },
+      {
+        "station": "Kuttipuram",
+        "arrivalTime": "01:30 pm",
+        "departureTime": "01:30 pm"
+      },
+      {
+        "station": "Thrissur",
+        "arrivalTime": "03:30 pm",
+        "departureTime": "03:30 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15H-208",
+    "trip": 8,
+    "stations": [
+      {
+        "station": "Kozhikode",
+        "arrivalTime": "01:00 pm",
+        "departureTime": "01:00 pm"
+      },
+      {
+        "station": "Feroke",
+        "arrivalTime": "01:30 pm",
+        "departureTime": "01:30 pm"
+      },
+      {
+        "station": "Kadalundi",
+        "arrivalTime": "02:00 pm",
+        "departureTime": "02:00 pm"
+      },
+      {
+        "station": "Parappanangadi",
+        "arrivalTime": "02:30 pm",
+        "departureTime": "02:30 pm"
+      },
+      {
+        "station": "Tirur",
+        "arrivalTime": "03:00 pm",
+        "departureTime": "03:00 pm"
+      },
+      {
+        "station": "Ernakulam",
+        "arrivalTime": "05:00 pm",
+        "departureTime": "05:00 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15I-209",
+    "trip": 9,
+    "stations": [
+      {
+        "station": "Kozhikode",
+        "arrivalTime": "02:00 pm",
+        "departureTime": "02:00 pm"
+      },
+      {
+        "station": "Ramanattukara",
+        "arrivalTime": "02:30 pm",
+        "departureTime": "02:30 pm"
+      },
+      {
+        "station": "Kuttipuram",
+        "arrivalTime": "03:30 pm",
+        "departureTime": "03:30 pm"
+      },
+      {
+        "station": "Thrissur",
+        "arrivalTime": "05:00 pm",
+        "departureTime": "05:00 pm"
+      },
+      {
+        "station": "Ernakulam",
+        "arrivalTime": "06:00 pm",
+        "departureTime": "06:00 pm"
+      },
+      {
+        "station": "Kottayam",
+        "arrivalTime": "07:00 pm",
+        "departureTime": "07:00 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15J-210",
+    "trip": 10,
+    "stations": [
+      {
+        "station": "Kozhikode",
+        "arrivalTime": "03:00 pm",
+        "departureTime": "03:00 pm"
+      },
+      {
+        "station": "Ramanattukara",
+        "arrivalTime": "03:30 pm",
+        "departureTime": "03:30 pm"
+      },
+      {
+        "station": "Kuttipuram",
+        "arrivalTime": "04:30 pm",
+        "departureTime": "04:30 pm"
+      },
+      {
+        "station": "Thrissur",
+        "arrivalTime": "06:00 pm",
+        "departureTime": "06:00 pm"
+      },
+      {
+        "station": "Ernakulam",
+        "arrivalTime": "07:30 pm",
+        "departureTime": "07:30 pm"
+      },
+      {
+        "station": "Kollam",
+        "arrivalTime": "09:00 pm",
+        "departureTime": "09:00 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15K-211",
+    "trip": 11,
+    "stations": [
+      {
+        "station": "Kozhikode",
+        "arrivalTime": "04:00 pm",
+        "departureTime": "04:00 pm"
+      },
+      {
+        "station": "Ramanattukara",
+        "arrivalTime": "04:30 pm",
+        "departureTime": "04:30 pm"
+      },
+      {
+        "station": "Kuttipuram",
+        "arrivalTime": "05:30 pm",
+        "departureTime": "05:30 pm"
+      },
+      {
+        "station": "Thrissur",
+        "arrivalTime": "07:00 pm",
+        "departureTime": "07:00 pm"
+      },
+      {
+        "station": "Ernakulam",
+        "arrivalTime": "08:00 pm",
+        "departureTime": "08:00 pm"
+      },
+      {
+        "station": "Alappuzha",
+        "arrivalTime": "08:30 pm",
+        "departureTime": "08:30 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15L-212",
+    "trip": 12,
+    "stations": [
+      {
+        "station": "Kozhikode",
+        "arrivalTime": "05:00 pm",
+        "departureTime": "05:00 pm"
+      },
+      {
+        "station": "Mukkam",
+        "arrivalTime": "05:30 pm",
+        "departureTime": "05:30 pm"
+      },
+      {
+        "station": "Perambra",
+        "arrivalTime": "06:00 pm",
+        "departureTime": "06:00 pm"
+      },
+      {
+        "station": "Koduvally",
+        "arrivalTime": "06:30 pm",
+        "departureTime": "06:30 pm"
+      },
+      {
+        "station": "Kunnamkulam",
+        "arrivalTime": "07:30 pm",
+        "departureTime": "07:30 pm"
+      },
+      {
+        "station": "Palakkad",
+        "arrivalTime": "09:00 pm",
+        "departureTime": "09:00 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15M-213",
+    "trip": 13,
+    "stations": [
+      {
+        "station": "Kozhikode",
+        "arrivalTime": "06:00 pm",
+        "departureTime": "06:00 pm"
+      },
+      {
+        "station": "Ramanattukara",
+        "arrivalTime": "06:30 pm",
+        "departureTime": "06:30 pm"
+      },
+      {
+        "station": "Kuttipuram",
+        "arrivalTime": "07:30 pm",
+        "departureTime": "07:30 pm"
+      },
+      {
+        "station": "Thrissur",
+        "arrivalTime": "09:30 pm",
+        "departureTime": "09:30 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15N-214",
+    "trip": 14,
+    "stations": [
+      {
+        "station": "Kozhikode",
+        "arrivalTime": "07:00 pm",
+        "departureTime": "07:00 pm"
+      },
+      {
+        "station": "Vadakara",
+        "arrivalTime": "07:45 pm",
+        "departureTime": "07:45 pm"
+      },
+      {
+        "station": "Mahe",
+        "arrivalTime": "08:15 pm",
+        "departureTime": "08:15 pm"
+      },
+      {
+        "station": "Thalassery",
+        "arrivalTime": "08:45 pm",
+        "departureTime": "08:45 pm"
+      },
+      {
+        "station": "Payyannur",
+        "arrivalTime": "09:15 pm",
+        "departureTime": "09:15 pm"
+      },
+      {
+        "station": "Kannur",
+        "arrivalTime": "10:00 pm",
+        "departureTime": "10:00 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15O-215",
+    "trip": 15,
+    "stations": [
+      {
+        "station": "Kozhikode",
+        "arrivalTime": "08:00 pm",
+        "departureTime": "08:00 pm"
+      },
+      {
+        "station": "Kunnamangalam",
+        "arrivalTime": "08:30 pm",
+        "departureTime": "08:30 pm"
+      },
+      {
+        "station": "Periya",
+        "arrivalTime": "09:00 pm",
+        "departureTime": "09:00 pm"
+      },
+      {
+        "station": "Kalpetta",
+        "arrivalTime": "10:30 pm",
+        "departureTime": "10:30 pm"
+      },
+      {
+        "station": "Sultan Bathery",
+        "arrivalTime": "11:00 pm",
+        "departureTime": "11:00 pm"
+      },
+      {
+        "station": "Wayanad",
+        "arrivalTime": "11:30 pm",
+        "departureTime": "11:30 pm"
+      }
+    ]
+  }
+]

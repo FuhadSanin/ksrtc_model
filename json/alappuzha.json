@@ -1,0 +1,110 @@
+[
+  {
+    "vehicle_number": "KL15-301",
+    "stations": [
+      { "station": "Alappuzha", "arrivalTime": "05:30 AM", "departureTime": "05:30 AM" },
+      { "station": "Cherthala", "arrivalTime": "06:00 AM", "departureTime": "06:00 AM" },
+      { "station": "Ernakulam", "arrivalTime": "07:00 AM", "departureTime": "07:00 AM" },
+      { "station": "Angamaly", "arrivalTime": "08:00 AM", "departureTime": "08:00 AM" },
+      { "station": "Thrissur", "arrivalTime": "09:30 AM", "departureTime": "09:30 AM" },
+      { "station": "Ottapalam", "arrivalTime": "10:30 AM", "departureTime": "10:30 AM" },
+      { "station": "Palakkad", "arrivalTime": "11:00 AM", "departureTime": "11:00 AM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15-302",
+    "stations": [
+      { "station": "Alappuzha", "arrivalTime": "07:00 AM", "departureTime": "07:00 AM" },
+      { "station": "Cherthala", "arrivalTime": "07:30 AM", "departureTime": "07:30 AM" },
+      { "station": "Ernakulam", "arrivalTime": "08:30 AM", "departureTime": "08:30 AM" },
+      { "station": "Thrissur", "arrivalTime": "10:30 AM", "departureTime": "10:30 AM" },
+      { "station": "Palakkad", "arrivalTime": "12:00 PM", "departureTime": "12:00 PM" },
+      { "station": "Walayar", "arrivalTime": "01:00 PM", "departureTime": "01:00 PM" },
+      { "station": "Coimbatore", "arrivalTime": "02:00 PM", "departureTime": "02:00 PM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15-303",
+    "stations": [
+      { "station": "Alappuzha", "arrivalTime": "08:45 AM", "departureTime": "08:45 AM" },
+      { "station": "Cherthala", "arrivalTime": "09:15 AM", "departureTime": "09:15 AM" },
+      { "station": "Ernakulam", "arrivalTime": "10:30 AM", "departureTime": "10:30 AM" },
+      { "station": "Kothamangalam", "arrivalTime": "12:30 PM", "departureTime": "12:30 PM" },
+      { "station": "Adimali", "arrivalTime": "02:00 PM", "departureTime": "02:00 PM" },
+      { "station": "Devikulam", "arrivalTime": "03:15 PM", "departureTime": "03:15 PM" },
+      { "station": "Munnar", "arrivalTime": "03:45 PM", "departureTime": "03:45 PM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15-304",
+    "stations": [
+      { "station": "Alappuzha", "arrivalTime": "09:15 AM", "departureTime": "09:15 AM" },
+      { "station": "Haripad", "arrivalTime": "09:45 AM", "departureTime": "09:45 AM" },
+      { "station": "Kayamkulam", "arrivalTime": "10:15 AM", "departureTime": "10:15 AM" },
+      { "station": "Karunagappally", "arrivalTime": "11:00 AM", "departureTime": "11:00 AM" },
+      { "station": "Kollam", "arrivalTime": "12:15 PM", "departureTime": "12:15 PM" },
+      { "station": "Anchal", "arrivalTime": "01:15 PM", "departureTime": "01:15 PM" },
+      { "station": "Kottarakkara", "arrivalTime": "01:45 PM", "departureTime": "01:45 PM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15-305",
+    "stations": [
+      { "station": "Alappuzha", "arrivalTime": "10:30 AM", "departureTime": "10:30 AM" },
+      { "station": "Mavelikkara", "arrivalTime": "11:00 AM", "departureTime": "11:00 AM" },
+      { "station": "Thiruvalla", "arrivalTime": "11:30 AM", "departureTime": "11:30 AM" },
+      { "station": "Chengannur", "arrivalTime": "12:00 PM", "departureTime": "12:00 PM" },
+      { "station": "Ranni", "arrivalTime": "01:15 PM", "departureTime": "01:15 PM" },
+      { "station": "Elanthoor", "arrivalTime": "02:00 PM", "departureTime": "02:00 PM" },
+      { "station": "Pathanamthitta", "arrivalTime": "02:30 PM", "departureTime": "02:30 PM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15-306",
+    "stations": [
+      { "station": "Alappuzha", "arrivalTime": "06:00 AM", "departureTime": "06:00 AM" },
+      { "station": "Cherthala", "arrivalTime": "06:30 AM", "departureTime": "06:30 AM" },
+      { "station": "Ernakulam", "arrivalTime": "07:30 AM", "departureTime": "07:30 AM" },
+      { "station": "Kakkanad", "arrivalTime": "08:15 AM", "departureTime": "08:15 AM" },
+      { "station": "Perumbavoor", "arrivalTime": "09:00 AM", "departureTime": "09:00 AM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15-307",
+    "stations": [
+      { "station": "Alappuzha", "arrivalTime": "07:30 AM", "departureTime": "07:30 AM" },
+      { "station": "Haripad", "arrivalTime": "08:00 AM", "departureTime": "08:00 AM" },
+      { "station": "Kollam", "arrivalTime": "09:15 AM", "departureTime": "09:15 AM" },
+      { "station": "Varkala", "arrivalTime": "10:00 AM", "departureTime": "10:00 AM" },
+      { "station": "Thiruvananthapuram", "arrivalTime": "11:30 AM", "departureTime": "11:30 AM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15-308",
+    "stations": [
+      { "station": "Alappuzha", "arrivalTime": "08:00 AM", "departureTime": "08:00 AM" },
+      { "station": "Kumarakom", "arrivalTime": "08:45 AM", "departureTime": "08:45 AM" },
+      { "station": "Kottayam", "arrivalTime": "09:30 AM", "departureTime": "09:30 AM" },
+      { "station": "Pala", "arrivalTime": "10:45 AM", "departureTime": "10:45 AM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15-309",
+    "stations": [
+      { "station": "Alappuzha", "arrivalTime": "09:00 AM", "departureTime": "09:00 AM" },
+      { "station": "Cherthala", "arrivalTime": "09:30 AM", "departureTime": "09:30 AM" },
+      { "station": "Ernakulam", "arrivalTime": "10:45 AM", "departureTime": "10:45 AM" },
+      { "station": "Aluva", "arrivalTime": "11:30 AM", "departureTime": "11:30 AM" },
+      { "station": "Perumbavoor", "arrivalTime": "12:15 PM", "departureTime": "12:15 PM" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15-310",
+    "stations": [
+      { "station": "Alappuzha", "arrivalTime": "09:45 AM", "departureTime": "09:45 AM" },
+      { "station": "Cherthala", "arrivalTime": "10:15 AM", "departureTime": "10:15 AM" },
+      { "station": "Ernakulam", "arrivalTime": "11:15 AM", "departureTime": "11:15 AM" },
+      { "station": "Perumbavoor", "arrivalTime": "12:30 PM", "departureTime": "12:30 PM" }
+    ]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "vehicle_number": "KL15A1234",
+    "stations": [
+      {
+        "station": "Kollam",
+        "arrivalTime": "06:00 AM",
+        "departureTime": "06:10 AM"
+      },
+      {
+        "station": "Kottiyam",
+        "arrivalTime": "06:30 AM",
+        "departureTime": "06:35 AM"
+      },
+      {
+        "station": "Chathannoor",
+        "arrivalTime": "06:50 AM",
+        "departureTime": "06:55 AM"
+      },
+      {
+        "station": "Attingal",
+        "arrivalTime": "07:20 AM",
+        "departureTime": "07:25 AM"
+      },
+      {
+        "station": "Thiruvananthapuram",
+        "arrivalTime": "08:00 AM",
+        "departureTime": "08:00 AM"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15B5678",
+    "stations": [
+      {
+        "station": "Kollam",
+        "arrivalTime": "07:00 AM",
+        "departureTime": "07:10 AM"
+      },
+      {
+        "station": "Kottarakkara",
+        "arrivalTime": "07:50 AM",
+        "departureTime": "07:55 AM"
+      },
+      {
+        "station": "Adoor",
+        "arrivalTime": "08:30 AM",
+        "departureTime": "08:35 AM"
+      },
+      {
+        "station": "Pathanamthitta",
+        "arrivalTime": "09:15 AM",
+        "departureTime": "09:20 AM"
+      },
+      {
+        "station": "Ranni",
+        "arrivalTime": "09:50 AM",
+        "departureTime": "09:50 AM"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15C9101",
+    "stations": [
+      {
+        "station": "Kollam",
+        "arrivalTime": "08:00 AM",
+        "departureTime": "08:10 AM"
+      },
+      {
+        "station": "Karunagapally",
+        "arrivalTime": "08:40 AM",
+        "departureTime": "08:45 AM"
+      },
+      {
+        "station": "Kayamkulam",
+        "arrivalTime": "09:15 AM",
+        "departureTime": "09:20 AM"
+      },
+      {
+        "station": "Haripad",
+        "arrivalTime": "09:50 AM",
+        "departureTime": "09:55 AM"
+      },
+      {
+        "station": "Alappuzha",
+        "arrivalTime": "10:30 AM",
+        "departureTime": "10:30 AM"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15D1122",
+    "stations": [
+      {
+        "station": "Kollam",
+        "arrivalTime": "09:00 AM",
+        "departureTime": "09:10 AM"
+      },
+      {
+        "station": "Punalur",
+        "arrivalTime": "10:00 AM",
+        "departureTime": "10:05 AM"
+      },
+      {
+        "station": "Pathanapuram",
+        "arrivalTime": "10:30 AM",
+        "departureTime": "10:35 AM"
+      },
+      {
+        "station": "Pathanamthitta",
+        "arrivalTime": "11:15 AM",
+        "departureTime": "11:20 AM"
+      },
+      {
+        "station": "Thiruvalla",
+        "arrivalTime": "12:00 PM",
+        "departureTime": "12:00 PM"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15E3344",
+    "stations": [
+      {
+        "station": "Kollam",
+        "arrivalTime": "10:00 AM",
+        "departureTime": "10:10 AM"
+      },
+      {
+        "station": "Kundara",
+        "arrivalTime": "10:30 AM",
+        "departureTime": "10:35 AM"
+      },
+      {
+        "station": "Ezhukone",
+        "arrivalTime": "10:50 AM",
+        "departureTime": "10:55 AM"
+      },
+      {
+        "station": "Kottarakkara",
+        "arrivalTime": "11:15 AM",
+        "departureTime": "11:20 AM"
+      },
+      {
+        "station": "Adoor",
+        "arrivalTime": "11:50 AM",
+        "departureTime": "11:50 AM"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15F5566",
+    "stations": [
+      {
+        "station": "Kollam",
+        "arrivalTime": "11:00 AM",
+        "departureTime": "11:10 AM"
+      },
+      {
+        "station": "Sasthamkotta",
+        "arrivalTime": "11:40 AM",
+        "departureTime": "11:45 AM"
+      },
+      {
+        "station": "Karunagapally",
+        "arrivalTime": "12:15 PM",
+        "departureTime": "12:20 PM"
+      },
+      {
+        "station": "Ochira",
+        "arrivalTime": "12:45 PM",
+        "departureTime": "12:50 PM"
+      },
+      {
+        "station": "Kayamkulam",
+        "arrivalTime": "01:15 PM",
+        "departureTime": "01:15 PM"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15G7788",
+    "stations": [
+      {
+        "station": "Kollam",
+        "arrivalTime": "12:00 PM",
+        "departureTime": "12:10 PM"
+      },
+      {
+        "station": "Paravur",
+        "arrivalTime": "12:40 PM",
+        "departureTime": "12:45 PM"
+      },
+      {
+        "station": "Varkala",
+        "arrivalTime": "01:15 PM",
+        "departureTime": "01:20 PM"
+      },
+      {
+        "station": "Attingal",
+        "arrivalTime": "01:50 PM",
+        "departureTime": "01:55 PM"
+      },
+      {
+        "station": "Thiruvananthapuram",
+        "arrivalTime": "02:30 PM",
+        "departureTime": "02:30 PM"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15H9900",
+    "stations": [
+      {
+        "station": "Kollam",
+        "arrivalTime": "01:00 PM",
+        "departureTime": "01:10 PM"
+      },
+      {
+        "station": "Chavara",
+        "arrivalTime": "01:30 PM",
+        "departureTime": "01:35 PM"
+      },
+      {
+        "station": "Neendakara",
+        "arrivalTime": "01:50 PM",
+        "departureTime": "01:55 PM"
+      },
+      {
+        "station": "Chavara",
+        "arrivalTime": "02:10 PM",
+        "departureTime": "02:15 PM"
+      },
+      {
+        "station": "Kollam",
+        "arrivalTime": "02:30 PM",
+        "departureTime": "02:30 PM"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15K2233",
+    "stations": [
+      {
+        "station": "Kollam",
+        "arrivalTime": "02:00 PM",
+        "departureTime": "02:10 PM"
+      },
+      {
+        "station": "Chathannoor",
+        "arrivalTime": "02:40 PM",
+        "departureTime": "02:45 PM"
+      },
+      {
+        "station": "Parippally",
+        "arrivalTime": "03:10 PM",
+        "departureTime": "03:15 PM"
+      },
+      {
+        "station": "Attingal",
+        "arrivalTime": "03:40 PM",
+        "departureTime": "03:45 PM"
+      },
+      {
+        "station": "Thiruvananthapuram",
+        "arrivalTime": "04:30 PM",
+        "departureTime": "04:30 PM"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15L3344",
+    "stations": [
+      {
+        "station": "Kollam",
+        "arrivalTime": "03:00 PM",
+        "departureTime": "03:10 PM"
+      },
+      {
+        "station": "Karunagapally",
+        "arrivalTime": "03:40 PM",
+        "departureTime": "03:45 PM"
+      },
+      {
+        "station": "Kayamkulam",
+        "arrivalTime": "04:15 PM",
+        "departureTime": "04:20 PM"
+      },
+      {
+        "station": "Haripad",
+        "arrivalTime": "04:45 PM",
+        "departureTime": "04:50 PM"
+      },
+      {
+        "station": "Alappuzha",
+        "arrivalTime": "05:30 PM",
+        "departureTime": "05:30 PM"
+      }
+    ]
+  }
+]

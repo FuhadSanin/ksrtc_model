@@ -1,0 +1,262 @@
+[
+  {
+    "vehicle_number": "KL15A-101",
+    "trip": 1,
+    "stations": [
+      {
+        "station": "Kasaragod",
+        "arrivalTime": "06:00 am",
+        "departureTime": "06:00 am"
+      },
+      {
+        "station": "Periya",
+        "arrivalTime": "06:30 am",
+        "departureTime": "06:30 am"
+      },
+      {
+        "station": "Kanhangad",
+        "arrivalTime": "06:45 am",
+        "departureTime": "06:45 am"
+      },
+      {
+        "station": "Nileshwar",
+        "arrivalTime": "07:15 am",
+        "departureTime": "07:15 am"
+      },
+      {
+        "station": "Payyanur",
+        "arrivalTime": "08:00 am",
+        "departureTime": "08:00 am"
+      },
+      {
+        "station": "Taliparamba",
+        "arrivalTime": "08:45 am",
+        "departureTime": "08:45 am"
+      },
+      {
+        "station": "Kannur",
+        "arrivalTime": "09:30 am",
+        "departureTime": "09:30 am"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15B-102",
+    "trip": 2,
+    "stations": [
+      {
+        "station": "Kasaragod",
+        "arrivalTime": "07:00 am",
+        "departureTime": "07:00 am"
+      },
+      {
+        "station": "Periya",
+        "arrivalTime": "07:20 am",
+        "departureTime": "07:20 am"
+      },
+      {
+        "station": "Uppala",
+        "arrivalTime": "07:30 am",
+        "departureTime": "07:30 am"
+      },
+      {
+        "station": "Manjeshwar",
+        "arrivalTime": "07:50 am",
+        "departureTime": "07:50 am"
+      },
+      {
+        "station": "Thokottu",
+        "arrivalTime": "08:20 am",
+        "departureTime": "08:20 am"
+      },
+      {
+        "station": "Kankanady",
+        "arrivalTime": "08:40 am",
+        "departureTime": "08:40 am"
+      },
+      {
+        "station": "Mangalore",
+        "arrivalTime": "09:00 am",
+        "departureTime": "09:00 am"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15C-103",
+    "trip": 3,
+    "stations": [
+      {
+        "station": "Kasaragod",
+        "arrivalTime": "05:45 am",
+        "departureTime": "05:45 am"
+      },
+      {
+        "station": "Periya",
+        "arrivalTime": "06:15 am",
+        "departureTime": "06:15 am"
+      },
+      {
+        "station": "Payyanur",
+        "arrivalTime": "07:15 am",
+        "departureTime": "07:15 am"
+      },
+      {
+        "station": "Kannur",
+        "arrivalTime": "08:45 am",
+        "departureTime": "08:45 am"
+      },
+      {
+        "station": "Thalassery",
+        "arrivalTime": "09:30 am",
+        "departureTime": "09:30 am"
+      },
+      {
+        "station": "Vadakara",
+        "arrivalTime": "10:45 am",
+        "departureTime": "10:45 am"
+      },
+      {
+        "station": "Kozhikode",
+        "arrivalTime": "12:00 pm",
+        "departureTime": "12:00 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15X-112",
+    "trip": 4,
+    "stations": [
+      {
+        "station": "Kasaragod",
+        "arrivalTime": "07:30 am",
+        "departureTime": "07:30 am"
+      },
+      {
+        "station": "Periya",
+        "arrivalTime": "08:00 am",
+        "departureTime": "08:00 am"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15Y-113",
+    "trip": 5,
+    "stations": [
+      {
+        "station": "Kasaragod",
+        "arrivalTime": "05:45 pm",
+        "departureTime": "05:45 pm"
+      },
+      {
+        "station": "Periya",
+        "arrivalTime": "06:15 pm",
+        "departureTime": "06:15 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15Z-114",
+    "trip": 6,
+    "stations": [
+      {
+        "station": "Kasaragod",
+        "arrivalTime": "06:30 am",
+        "departureTime": "06:30 am"
+      },
+      {
+        "station": "Periya",
+        "arrivalTime": "07:00 am",
+        "departureTime": "07:00 am"
+      },
+      {
+        "station": "Kannur",
+        "arrivalTime": "08:30 am",
+        "departureTime": "08:30 am"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15A-115",
+    "trip": 7,
+    "stations": [
+      {
+        "station": "Kasaragod",
+        "arrivalTime": "09:00 am",
+        "departureTime": "09:00 am"
+      },
+      {
+        "station": "Periya",
+        "arrivalTime": "09:30 am",
+        "departureTime": "09:30 am"
+      },
+      {
+        "station": "Payyanur",
+        "arrivalTime": "10:15 am",
+        "departureTime": "10:15 am"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15B-116",
+    "trip": 8,
+    "stations": [
+      {
+        "station": "Kasaragod",
+        "arrivalTime": "12:00 pm",
+        "departureTime": "12:00 pm"
+      },
+      {
+        "station": "Periya",
+        "arrivalTime": "12:30 pm",
+        "departureTime": "12:30 pm"
+      },
+      {
+        "station": "Taliparamba",
+        "arrivalTime": "01:15 pm",
+        "departureTime": "01:15 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15C-117",
+    "trip": 9,
+    "stations": [
+      {
+        "station": "Kasaragod",
+        "arrivalTime": "03:30 pm",
+        "departureTime": "03:30 pm"
+      },
+      {
+        "station": "Periya",
+        "arrivalTime": "04:00 pm",
+        "departureTime": "04:00 pm"
+      },
+      {
+        "station": "Mangalore",
+        "arrivalTime": "05:30 pm",
+        "departureTime": "05:30 pm"
+      }
+    ]
+  },
+  {
+    "vehicle_number": "KL15D-118",
+    "trip": 10,
+    "stations": [
+      {
+        "station": "Kasaragod",
+        "arrivalTime": "08:00 pm",
+        "departureTime": "08:00 pm"
+      },
+      {
+        "station": "Periya",
+        "arrivalTime": "08:30 pm",
+        "departureTime": "08:30 pm"
+      },
+      {
+        "station": "Thalassery",
+        "arrivalTime": "10:00 pm",
+        "departureTime": "10:00 pm"
+      }
+    ]
+  }
+]

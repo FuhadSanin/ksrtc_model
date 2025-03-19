@@ -1,0 +1,123 @@
+[
+  {
+    "vehicle_number": "KL15A-601",
+    "trip": 1,
+    "stations": [
+      { "station": "Malappuram", "arrivalTime": "06:00 am", "departureTime": "06:00 am" },
+      { "station": "Panakad", "arrivalTime": "06:10 am", "departureTime": "06:10 am" },
+      { "station": "Manjeri", "arrivalTime": "06:20 am", "departureTime": "06:20 am" },
+      { "station": "Areekode", "arrivalTime": "06:40 am", "departureTime": "06:40 am" },
+      { "station": "Kunnamangalam", "arrivalTime": "07:10 am", "departureTime": "07:10 am" },
+      { "station": "Kozhikode Medical College", "arrivalTime": "07:30 am", "departureTime": "07:30 am" },
+      { "station": "Kozhikode", "arrivalTime": "07:45 am", "departureTime": "07:45 am" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15B-602",
+    "trip": 2,
+    "stations": [
+      { "station": "Malappuram", "arrivalTime": "07:00 am", "departureTime": "07:00 am" },
+      { "station": "Panakad", "arrivalTime": "07:10 am", "departureTime": "07:10 am" },
+      { "station": "Kottakkal", "arrivalTime": "07:20 am", "departureTime": "07:20 am" },
+      { "station": "Valanchery", "arrivalTime": "07:50 am", "departureTime": "07:50 am" },
+      { "station": "Pattambi", "arrivalTime": "08:30 am", "departureTime": "08:30 am" },
+      { "station": "Shoranur", "arrivalTime": "09:00 am", "departureTime": "09:00 am" },
+      { "station": "Thrissur", "arrivalTime": "09:30 am", "departureTime": "09:30 am" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15C-603",
+    "trip": 3,
+    "stations": [
+      { "station": "Malappuram", "arrivalTime": "08:00 am", "departureTime": "08:00 am" },
+      { "station": "Panakad", "arrivalTime": "08:10 am", "departureTime": "08:10 am" },
+      { "station": "Perinthalmanna", "arrivalTime": "08:30 am", "departureTime": "08:30 am" },
+      { "station": "Angadipuram", "arrivalTime": "08:40 am", "departureTime": "08:40 am" },
+      { "station": "Mannarkkad", "arrivalTime": "09:00 am", "departureTime": "09:00 am" },
+      { "station": "Kongad", "arrivalTime": "09:45 am", "departureTime": "09:45 am" },
+      { "station": "Malampuzha", "arrivalTime": "10:15 am", "departureTime": "10:15 am" },
+      { "station": "Palakkad", "arrivalTime": "10:30 am", "departureTime": "10:30 am" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15D-604",
+    "trip": 4,
+    "stations": [
+      { "station": "Malappuram", "arrivalTime": "09:00 am", "departureTime": "09:00 am" },
+      { "station": "Panakad", "arrivalTime": "09:10 am", "departureTime": "09:10 am" },
+      { "station": "Angadipuram", "arrivalTime": "09:30 am", "departureTime": "09:30 am" },
+      { "station": "Ottapalam", "arrivalTime": "10:00 am", "departureTime": "10:00 am" },
+      { "station": "Shoranur", "arrivalTime": "10:30 am", "departureTime": "10:30 am" },
+      { "station": "Thrissur", "arrivalTime": "11:00 am", "departureTime": "11:00 am" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15E-605",
+    "trip": 5,
+    "stations": [
+      { "station": "Malappuram", "arrivalTime": "10:00 am", "departureTime": "10:00 am" },
+      { "station": "Kottakkal", "arrivalTime": "10:20 am", "departureTime": "10:20 am" },
+      { "station": "Valanchery", "arrivalTime": "10:50 am", "departureTime": "10:50 am" },
+      { "station": "Pattambi", "arrivalTime": "11:30 am", "departureTime": "11:30 am" },
+      { "station": "Shoranur", "arrivalTime": "12:00 pm", "departureTime": "12:00 pm" },
+      { "station": "Palakkad", "arrivalTime": "12:30 pm", "departureTime": "12:30 pm" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15F-606",
+    "trip": 6,
+    "stations": [
+      { "station": "Malappuram", "arrivalTime": "11:00 am", "departureTime": "11:00 am" },
+      { "station": "Panakad", "arrivalTime": "11:10 am", "departureTime": "11:10 am" },
+      { "station": "Manjeri", "arrivalTime": "11:30 am", "departureTime": "11:30 am" },
+      { "station": "Nilambur", "arrivalTime": "12:00 pm", "departureTime": "12:00 pm" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15G-607",
+    "trip": 7,
+    "stations": [
+      { "station": "Malappuram", "arrivalTime": "12:00 pm", "departureTime": "12:00 pm" },
+      { "station": "Kottakkal", "arrivalTime": "12:20 pm", "departureTime": "12:20 pm" },
+      { "station": "Valanchery", "arrivalTime": "12:50 pm", "departureTime": "12:50 pm" },
+      { "station": "Edappal", "arrivalTime": "01:10 pm", "departureTime": "01:10 pm" },
+      { "station": "Ponnani", "arrivalTime": "01:40 pm", "departureTime": "01:40 pm" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15H-608",
+    "trip": 8,
+    "stations": [
+      { "station": "Malappuram", "arrivalTime": "01:00 pm", "departureTime": "01:00 pm" },
+      { "station": "Panakad", "arrivalTime": "01:10 pm", "departureTime": "01:10 pm" },
+      { "station": "Perinthalmanna", "arrivalTime": "01:40 pm", "departureTime": "01:40 pm" },
+      { "station": "Mannarkkad", "arrivalTime": "02:30 pm", "departureTime": "02:30 pm" },
+      { "station": "Palakkad", "arrivalTime": "03:15 pm", "departureTime": "03:15 pm" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15J-609",
+    "trip": 9,
+    "stations": [
+      { "station": "Malappuram", "arrivalTime": "02:00 pm", "departureTime": "02:00 pm" },
+      { "station": "Panakad", "arrivalTime": "02:10 pm", "departureTime": "02:10 pm" },
+      { "station": "Manjeri", "arrivalTime": "02:30 pm", "departureTime": "02:30 pm" },
+      { "station": "Areekode", "arrivalTime": "02:50 pm", "departureTime": "02:50 pm" },
+      { "station": "Thamarassery", "arrivalTime": "03:30 pm", "departureTime": "03:30 pm" },
+      { "station": "Kozhikode", "arrivalTime": "04:00 pm", "departureTime": "04:00 pm" }
+    ]
+  },
+  {
+    "vehicle_number": "KL15K-610",
+    "trip": 10,
+    "stations": [
+      { "station": "Malappuram", "arrivalTime": "03:00 pm", "departureTime": "03:00 pm" },
+      { "station": "Kottakkal", "arrivalTime": "03:20 pm", "departureTime": "03:20 pm" },
+      { "station": "Valanchery", "arrivalTime": "03:50 pm", "departureTime": "03:50 pm" },
+      { "station": "Pattambi", "arrivalTime": "04:30 pm", "departureTime": "04:30 pm" },
+      { "station": "Ottapalam", "arrivalTime": "05:00 pm", "departureTime": "05:00 pm" },
+      { "station": "Shoranur", "arrivalTime": "05:30 pm", "departureTime": "05:30 pm" },
+      { "station": "Thrissur", "arrivalTime": "06:00 pm", "departureTime": "06:00 pm" }
+    ]
+  }
+]
